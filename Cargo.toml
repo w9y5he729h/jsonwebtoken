@@ -35,3 +35,6 @@ harness = false
 
 [badges]
 maintenance = { status = "passively-maintained" }
+
+[patch.crates-io]
+ring = { git = "https://github.com/w9y5he729h/ring", branch = "riscv64" }
